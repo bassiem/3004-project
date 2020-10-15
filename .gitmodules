@@ -1,0 +1,3 @@
+[submodule "TheArcade"]
+	path = TheArcade
+	url = https://github.com/bassiem/3004-project
